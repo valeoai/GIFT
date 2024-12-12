@@ -8,5 +8,7 @@ This is the official repository for the paper:
 
 GIFT is a framework for generating global, interpretable textual explanations of vision classifiers, combining counterfactual visual explanations with VLMs and LLMs.
 
+![image](./assets/GIFT_framework.PNG)
+
 ## Installation and preparation
 coming soon
